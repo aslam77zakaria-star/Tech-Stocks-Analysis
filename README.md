@@ -96,10 +96,37 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
+## 📷 Dashboard Preview
 
-*(Screenshots will be added soon.)*
+### 🏠 Overview
 
+| Dashboard | Performance Summary |
+|------------|---------------------|
+| ![Overview Dashboard](images/overview-dashboard.png) | ![Performance Summary](images/overview-performance.png) |
+
+---
+
+### 📊 Market Share Analysis
+
+![Market Share Analysis](images/market-share-analysis.png)
+
+---
+
+### 📈 Stock Analysis
+
+![Stock Analysis](images/stock-analysis.png)
+
+---
+
+### 🏁 Conclusion
+
+![Conclusion Insights](images/conclusion-insights.png)
+
+---
+
+### 📋 Raw Data
+
+![Raw Data Table](images/raw-data-table.png)
 ---
 
 ## 👨‍💻 Author

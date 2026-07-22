@@ -442,11 +442,11 @@ with tab_raw:
  I would like to extend my sincere thanks to my team members who contributed to making this project a success.
 Team Members:
 
-Mustafa Ali Darwish (myself)\n\n
+Eslam Mohamed Zakaria (myself)\n\n
 Abdullah Mabrouk Abdelaziz\n\n
-Eslam Mohamed Zakaria\n\n
+Abdelrahman Rabie Khalil\n\n
 Mohamed Ahmed Shaaban\n\n
-Abdelrahman Rabie Khalil\n\n""" 
+Mustafa Ali Darwish\n\n""" 
         "</p>",
         unsafe_allow_html=True,
     )
