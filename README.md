@@ -131,7 +131,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-**Islam Mohamed**
+**Islam Zakaria**
 
 Faculty of Artificial Intelligence
 
